@@ -3,6 +3,7 @@ A variational autoencoder to generate timestreams of the power measured by LiteB
 
 ## License
 litebird-cosmic-ray-simulator
+
 Copyright (C) 2020  Matteo Zeccoli Marazzini
 
 This program is free software: you can redistribute it and/or modify
